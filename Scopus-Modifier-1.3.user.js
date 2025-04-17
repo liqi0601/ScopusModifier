@@ -6,6 +6,7 @@
 // @author       Leif Assistant
 // @match        https://www.scopus.com/authid/detail.uri?*
 // @match        https://www2.scopus.com/authid/detail.uri?*
+// @downloadURL  https://raw.githubusercontent.com/liqi0601/ScopusModifier/main/Scopus-Modifier-1.3.user.js
 // ==/UserScript==
 
 (function () {
